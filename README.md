@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**tszczygiol/tszczygiol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year student and an aspiring Financial Analyst, with main goal to create projects that expand my knowledge, deepen my understanding, and apply it practically in various projects.
 
-Here are some ideas to get you started:
+## Technologies i'm currently learning:
+- Python (pandas, scikitlearn, riskfolio)
+- Git and Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you'll find here:
+- University projects
+- Personal deepdives into new technologies
+
+## How to reach me:
+- Email: t.szczygiol21@gmail.com
+- Linkedin: www.linkedin.com/in/tomasz-szczygiol
