@@ -8,7 +8,7 @@ I'm a second-year student and an aspiring Financial Analyst, with main goal to c
 
 ## What you'll find here:
 - University projects
-- Personal deepdives into new technologies
+- Personal deepdives into technologies
 
 ## How to reach me:
 - Email: t.szczygiol21@gmail.com
